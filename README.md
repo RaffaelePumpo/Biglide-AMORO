@@ -4,7 +4,7 @@
 
 This project involves the control and trajectory planning for a parallel robot named Biglide. The robot has two active joints and two passive joints, and its dynamics are modeled using geometric and kinematic equations. The control strategy implemented is Computed Torque Control (CTC), and trajectory planning is performed in Cartesian space.
 ### Biglide Robot
-![Biglide Model](Biglide/initial2.png)
+![Biglide Model](initial2.png)
 
 ## Files
 
