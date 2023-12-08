@@ -1,4 +1,4 @@
-# Biglide Project
+# Biglide Robot modeling and control
 
 ## Overview
 
